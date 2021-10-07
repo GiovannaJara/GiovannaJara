@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+
+<img align="right" width="150" height="100" src="https://www.ffbegif.com/Cobalt%20Blade%20Noctis%20(NV)/215002907%20Win.gif">
 <!--
 **GiovannaJara/GiovannaJara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
